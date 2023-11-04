@@ -10,6 +10,14 @@ export default {
   name: 'App',
   components: {
     HelloWorld
+  },
+  method: {
+    add(a, b){
+      return a + b;
+    },
+    muliply(a, b){
+      return a * b;
+    }
   }
 }
 </script>
