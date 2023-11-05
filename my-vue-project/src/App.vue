@@ -15,6 +15,7 @@ export default {
     add(a, b){
       return a + b;
     },
+    //here one can send two numbers and get the result of their multipication
     muliply(a, b){
       return a * b;
     }
