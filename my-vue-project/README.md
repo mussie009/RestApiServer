@@ -29,6 +29,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 #### this is  4 commit on todoa branch
 #### this is  5 commit on todoa branch
 #### this is  6 commit on todoa branch
+#### this is  7 commit on todoa branch to test git commit --amend --no-edit
 
 
 
